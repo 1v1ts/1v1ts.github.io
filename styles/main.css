@@ -1,7 +1,12 @@
 body {
     width: 600px;
     margin: 0 auto;
+    padding: 20px;
     background-color: #FBF8EF;
+    width: inherit;
+    white-space:normal;
+    word-break:break-all;
+    word-wrap:break-word;
 }
 
 img {
